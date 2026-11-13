@@ -14,11 +14,12 @@
 ### Team Members
 
 | S.No | Student ID | Name |
+|---|---|---|
 | 1 | 2520030148 | Bh. Shashwath Kumar |
 | 2 | 2520030146 | K. Srinivas |
 | 3 | 2520030019 | V. Navadeep |
 
-**Project Supervisor: Dr. V. Anu Ragavi** 
+**Project Supervisor:** Dr. V. Anu Ragavi 
 
 ## 3. Abstract
 
@@ -52,31 +53,7 @@ The following technologies are planned for the project:
 
 *The final technology stack will be updated based on implementation.*
 
-## 6. Repository Structure
-
-The project repository contains the following folders:
-
-AI-Resume-Screening-System/
-│
-├── src/
-│   └── Source code
-│
-├── docs/
-│   └── Project documentation
-│
-├── data/
-│   └── Dataset or data source references
-│
-├── results/
-│   └── Output screenshots and results
-│
-├── reports/
-│   └── Project reports
-│
-└── README.md
-
-
-## 7. Setup Instructions
+## 6. Setup Instructions
 
 1. Install Python on your system.
 2. Install Visual Studio Code.
@@ -85,13 +62,13 @@ AI-Resume-Screening-System/
 5. Install the required Python libraries.
 6. Configure the development environment.
 
-## 8. Execution Instructions
+## 7. Execution Instructions
 
 The application execution instructions will be updated after completing the initial development and implementation.
 
 The project will be executed using Python after configuring all the required dependencies.
 
-## 9. Expected Outcomes
+## 8. Expected Outcomes
 
 - Automatic extraction of information from resumes.
 - Identification of candidate skills and qualifications.
@@ -99,5 +76,24 @@ The project will be executed using Python after configuring all the required dep
 - Identification of suitable candidates.
 - Reduction in manual resume screening efforts.
 
-##Conclusion
+## 9. Project Phase Status
+
+**Current Phase:** Project Planning and Repository Setup.
+
+**Status:** In Progress.
+
+**Completed Activities:**
+- Project topic selection.
+- Team formation.
+- GitHub repository planning.
+
+**Upcoming Activities:**
+- Requirement analysis.
+- System design.
+- Dataset collection.
+- Application development.
+- Testing and evaluation.
+
+## 10. Conclusion
+
 The AI Resume Screening System aims to make the recruitment process more efficient by using Artificial Intelligence to analyse and screen resumes. The project focuses on reducing manual work and helping recruiters identify suitable candidates based on job requirements.
